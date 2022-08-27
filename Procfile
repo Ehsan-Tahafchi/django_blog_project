@@ -1,0 +1,1 @@
+web: gunocorn config.wsgi --log-file -
